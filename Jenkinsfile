@@ -1,3 +1,3 @@
 @Library('first-shared-lib') _
 //welcomeJob 'lambdatest'
-sample 'https://github.com/iamvickyav/spring-boot-data-H2-embedded.git'
+sample 'https://github.com/KavyaPusapati07/sharedLib.git'
