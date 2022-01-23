@@ -1,3 +1,3 @@
 @Library('first-shared-lib') _
 //welcomeJob 'lambdatest'
-sample 'https://github.com/KavyaPusapati07/sharedLib.git'
+jfrogPipeline 'https://github.com/KavyaPusapati07/sharedLib.git'
