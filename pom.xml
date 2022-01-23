@@ -6,7 +6,7 @@
 	<groupId>com.iamvickyav.springboot</groupId>
 	<artifactId>SpringBootRestWithH2</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>SpringBootRestWithH2</name>
 	<description>Application to demonstrate usage of H2 DB with SpringBoot</description>
